@@ -132,3 +132,6 @@ skypro-# FROM employee
  Nikita |                25
  Lidia  |                63
 (2 ёЄЁюъш)
+
+
+
